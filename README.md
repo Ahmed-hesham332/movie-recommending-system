@@ -135,8 +135,7 @@ GET http://localhost:80/recommend?movie_name=Inception
 
 ## Contact
 
-For questions or feedback, feel free to reach out:
-i can send you the embeded file alone with the datasets
+For questions or feedback, i can send you the embeded file alone with the datasets, feel free to reach out :
 
 **Ahmed Husham**
 
