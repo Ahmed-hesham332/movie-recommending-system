@@ -121,13 +121,13 @@ GET http://localhost:80/recommend?movie_name=Inception
 
 **Home Page with Movie Search**
 
-![Home Page](./screenshots/img.png)
+![Home Page](./screenshots/image.png)
 
 ### 2. Movie Recommendations
 
 **Movie Recommendations**
 
-![Movie Recommendations](./screenshots/img2.png)
+![Movie Recommendations](./screenshots/image2.png)
 ## Problems andd Futer improvements
 
 - The application relies on  TMDB Movies Dataset and after a couple use of the application, i have notice that some movies (famous movies) are not included in the dataset.
