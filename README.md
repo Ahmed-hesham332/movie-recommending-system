@@ -76,10 +76,10 @@ movie_recommendation_system/
 │   ├── templates/          # HTML templates
 │   ├── css/                # CSS files
 │   ├── js/                 # JavaScript files
-├── dataEmbedding.py        # Script for embedding data
-├── movies.py               # Movie data processing
-├── recommender.py          # Recommendation logic
-├── refinedData.py          # Data refinement script
+│   ├── dataEmbedding.py    # Script for embedding data
+│   ├── movies.py           # Movie data processing
+│   ├── recommender.py      # Recommendation logic
+│   ├── refinedData.py      # Data refinement script
 ├── Dockerfile              # Docker configuration
 ├── requirements.txt        # Python dependencies
 ├── README.md               # Project documentation
@@ -138,4 +138,5 @@ GET http://localhost:80/recommend?movie_name=Inception
 For questions or feedback, feel free to reach out:
 
 **Ahmed Husham**
-**Email**modihesho@gmail.com
+
+**Email: **modihesho@gmail.com
